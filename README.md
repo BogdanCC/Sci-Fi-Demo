@@ -4,6 +4,8 @@
 # Sci-Fi Demo
 My code will differ in some parts from the instructor's code since I've completed the challenges and left my version of solving the problems.
 
+The C# scripts are in Assets/Game/Scripts
+
 Topics covered in this project : 
  - Implement sound effects, background music, and particle effects
  - Navigate the Unity Engine and discover unique features like the Asset Store
