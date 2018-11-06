@@ -1,4 +1,5 @@
 # Sci-Fi-Demo
+![Alt text](CourseImage/tuggdwu.jpg?raw=true "Optional Title")
 My code might differ from the instructor's code since I've completed the challenges and left my version of solving the problems.
 
 Topics covered in this project : 
